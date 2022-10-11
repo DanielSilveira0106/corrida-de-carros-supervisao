@@ -1,1 +1,2 @@
-# corrida-de-carros-supervisao
+# C37RV_SpeedRacer_StudentActivity
+Student Activity
